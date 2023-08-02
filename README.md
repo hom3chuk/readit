@@ -42,7 +42,7 @@ You'll end up with two more files: `Permaculture_comments` and `Permaculture_sub
 
 **Keep in mind:** readit creates `cache` subfolder where it stores indexed comments data. For a 406 MB comments file, `cache` used 453 MB of disk storage (OS X). Please be aware of that disk space requirement when processing huge subreddits.
 
-Now we can run readit to process these files into readable HTML:
+Now we can run readit to process these files into readable HTML (don't forget to provide your sub name):
 
 ```
 $ node readit.js Permaculture
