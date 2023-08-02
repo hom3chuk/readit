@@ -1,0 +1,8 @@
+{
+  "name": "readit",
+  "version": "1.0.0",
+  "main": "readit.js",
+  "license": "MIT",
+  "type": "module",
+  "author": "hom3chuk"
+}
