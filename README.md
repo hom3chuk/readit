@@ -2,7 +2,7 @@
 "Read it" /ɹɛd ɪt/ is a tool with no package dependencies that extracts Pushshift.io data archives from [The Eye Reddit Archives](https://the-eye.eu/redarcs/) into HTML files that are
 - redistributable: can be copied elsewhere as a single HTML file.
 - lightweight: only needed data is embeded, which is text and OP images links.
-- compatible: no JS needed to render the files, they can be viewed on pretty much anything that is capable rendering HTML
+- compatible: no JS needed to render the files, they can be viewed on pretty much anything that is capable of rendering HTML
 
 ## Requirements
 - nodejs v16 or higher ([how to install](https://nodejs.dev/en/learn/how-to-install-nodejs/))
