@@ -38,7 +38,7 @@ Permaculture_submissions.zst: 97972912 bytes
 
 You'll end up with two more files: `Permaculture_comments` and `Permaculture_submissions`
 
-### 3 Run readit
+### 3. Run readit
 
 **Keep in mind:** readit creates `cache` subfolder where it stores indexed comments data. For a 406 MB comments file, `cache` used 453 MB of disk storage (OS X). Please be aware of that disk space requirement when processing huge subreddits.
 
@@ -56,7 +56,7 @@ Once readit starts the second phase (`Processing submissions`) you can see that 
 
 HTML files are pretty simple, yet some of the reddit's markdown is supported.
 
-### 4 Cleanup
+### 4. Cleanup
 If you plan on extracting another sub, please manually delete the `cache` and `out` directories beforehand.
 
 ## Roadmap
@@ -67,5 +67,10 @@ If you plan on extracting another sub, please manually delete the `cache` and `o
 - word cloud index so yo ucan explore topics you never knew about
 
 ## Example HTML
+
+![image](https://github.com/hom3chuk/readit/assets/3368441/ed6d1bb6-4bdf-4bfa-b138-375e3dda118f)
+![image](https://github.com/hom3chuk/readit/assets/3368441/e1c0d0ba-4832-4cee-bf55-4cfd1cde0600)
+
+---
 
 Ope!
