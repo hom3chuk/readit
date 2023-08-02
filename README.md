@@ -17,7 +17,7 @@
 
 Clone the repo via `git clone` or just download the ZIP archive and unpack it. All commands and files are meant to happen inside that directory.
 
-No usual instalation is required. No `yarn`, no `npm install`, just download and it's ready to go.
+No usual installation is required. No `yarn`, no `npm install`, just download and it's ready to go.
 
 ### 2. Unpack `zst` archives for both Submissions and Comments
 
